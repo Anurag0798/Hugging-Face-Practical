@@ -1,4 +1,4 @@
-# Hugging Face Practical Project
+# Hugging Face Practical
 
 This project provides sample practical implementations and experiments with the Hugging Face Transformers library. It covers model loading, fine-tuning, and working with datasets and the Hugging Face hub.
 
